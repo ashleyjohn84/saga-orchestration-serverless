@@ -1,8 +1,8 @@
 terraform {
   backend "azurerm" {
     # modify the values for the storage account
-    storage_account_name = "sagatsstatemg"
-    container_name       = "tfstate"
+    storage_account_name = "sagastorageashley"
+    container_name       = "terraformajv"
     key                  = "terraform.tfstate"
   }
 }

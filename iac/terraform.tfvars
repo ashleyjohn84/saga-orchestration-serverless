@@ -1,5 +1,5 @@
 #this is a file with recommended variable names
-prefix          = "ajv"
+prefix          = "ajv1"
 environment     = "dev"
 location        = "eastus"
 partition_count = "2"
